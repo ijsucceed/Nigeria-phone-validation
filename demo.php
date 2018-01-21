@@ -21,13 +21,13 @@
                         <a class="nav-link">Demo</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://phpout.com/validate-phone-number-in-nigeria-using-php-function">Post</a>
+                        <a class="nav-link" href="http://bit.ly/2mY1214">Post</a>
                     </li>
                     <li class="nav-item"> 
-                        <a class="nav-link" href="https://github.com/">Github</a>
+                        <a class="nav-link" href="http://bit.ly/2EZQ5mS">Github</a>
                     </li>
                     <li class="nav-item"> 
-                        <a class="nav-link" href="https://twitter.com/iamijs">Follow</a>
+                        <a class="nav-link" href="https://twitter.com/ijsucceed">Follow</a>
                     </li>
                 </ul>
             </div>
