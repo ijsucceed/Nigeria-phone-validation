@@ -4,9 +4,9 @@ require_once "phone.validate.php";
 /* Save phone number into db */
 
 $db_server = "Localhost"; // host name
-$db_user   = "root"; // db user
-$db_pass   = "easyflow"; // db pass
-$db_name   = "phone_numbers_demo"; // db name
+$db_user   = " "; // Enter db user
+$db_pass   = " "; // Enter db pass
+$db_name   = " "; // Enter db name
 
 $conn = new Mysqli($db_server, $db_user, $db_pass, $db_name); // sql conn
 
