@@ -2,7 +2,7 @@
 # You can use the PHP and Js function
 # To validate users phone number
 # Please this script is for Nigeria only
-# It can still be use for other african countries, if you know how use functions
+# It can still be use for other african countries, if you know how to use functions
 
 # Functions can be found in PHP and Js folder
 
