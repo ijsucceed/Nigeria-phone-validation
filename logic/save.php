@@ -12,7 +12,7 @@ $conn = new Mysqli($db_server, $db_user, $db_pass, $db_name); // sql conn
 
 if($_POST['save']) {
     // number sent over
-    $phone_number = htmlspecialchars(stripcslashes($_POST['phone_input']));
+    $phone_number = htmlspecialchars($_POST['phone_input']);
     
     // Validate phone number 
     // Incase javascript is disabled
