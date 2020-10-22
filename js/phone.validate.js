@@ -11,8 +11,8 @@ function validate_phone(val)
 
     // Available prefixs
     // You can add as much
-    var prefixs = ["080", "081", "070", "090"]; // prefixs
-    var pre = val.substring(0, 3); // get the first three string
+    var prefixs = ["0701", "0702", "0703", "0704", "0705", "0706", "0708", "0802", "0803", "0804", "0805", "0806", "0807", "0808", "0809", "0810", "0811", "0812", "0813", "0814", "0815", "0816", "0817", "0818", "0901", "0902", "0903", "0904", "0905", "0906", "0907", "0908", "0909", "0913"]; // prefixs
+    var pre = val.substring(0, 4); // get the first three string
 
     // Iterate over each prefix 
     // to see if any match
